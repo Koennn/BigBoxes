@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BigBoxes:jar">
+    <output-path>D:/Server/plugins</output-path>
+    <root id="archive" name="BigBoxes.jar">
+      <element id="module-output" name="BigBoxes" />
+    </root>
+  </artifact>
+</component>

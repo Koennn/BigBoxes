@@ -1,0 +1,4 @@
+name: BigBoxes
+version: ${project.version}
+main: me.koenn.bigboxes.BigBoxes
+authors: [Koenn]

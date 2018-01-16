@@ -1,0 +1,17 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Server" type="JarApplication" factoryName="JAR Application" singleton="true">
+    <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    <option name="JAR_PATH" value="D:/Server/spigot-1.12.2.jar" />
+    <option name="VM_PARAMETERS" value="-Xmx3g -Xms2g" />
+    <option name="WORKING_DIRECTORY" value="D:\Server" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_101\jre" />
+    <envs />
+    <module name="BigBoxes" />
+    <method>
+      <option name="BuildArtifacts" enabled="true">
+        <artifact name="BigBoxes:jar" />
+      </option>
+    </method>
+  </configuration>
+</component>
